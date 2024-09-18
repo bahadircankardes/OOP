@@ -34,7 +34,7 @@ namespace _1_Giris
 
 		public Vites Vites { get; set; }
 
-		public Cekis Cekis { get; set; }
+		//public Cekis Cekis { get; set; }
 	}
 }
 

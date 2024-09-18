@@ -44,6 +44,8 @@ namespace _1_Giris
 
 		public double Maas { get; set; }
 
+		public string Adres { get; set; }
+
 
 
 	}
