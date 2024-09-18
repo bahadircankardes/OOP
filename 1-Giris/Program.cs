@@ -55,6 +55,7 @@ class Program
         reno.Vites = Vites.Otomatik;
         reno.Model = "Toros";
         reno.CikisYili = new DateOnly(1977, 5, 19);
+        Console.WriteLine("Gitti");
 
 
         #endregion
