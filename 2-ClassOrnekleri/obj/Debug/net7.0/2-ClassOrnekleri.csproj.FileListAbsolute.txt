@@ -1,0 +1,15 @@
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/bin/Debug/net7.0/2-ClassOrnekleri
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/bin/Debug/net7.0/2-ClassOrnekleri.deps.json
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/bin/Debug/net7.0/2-ClassOrnekleri.runtimeconfig.json
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/bin/Debug/net7.0/2-ClassOrnekleri.dll
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/bin/Debug/net7.0/2-ClassOrnekleri.pdb
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/obj/Debug/net7.0/2-ClassOrnekleri.csproj.AssemblyReference.cache
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/obj/Debug/net7.0/2-ClassOrnekleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/obj/Debug/net7.0/2-ClassOrnekleri.AssemblyInfoInputs.cache
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/obj/Debug/net7.0/2-ClassOrnekleri.AssemblyInfo.cs
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/obj/Debug/net7.0/2-ClassOrnekleri.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/obj/Debug/net7.0/2-ClassOrnekleri.dll
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/obj/Debug/net7.0/refint/2-ClassOrnekleri.dll
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/obj/Debug/net7.0/2-ClassOrnekleri.pdb
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/obj/Debug/net7.0/2-ClassOrnekleri.genruntimeconfig.cache
+/Users/bahadircankardes/Projects/OOP/2-ClassOrnekleri/obj/Debug/net7.0/ref/2-ClassOrnekleri.dll

@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Giris", "1-Giris\1-Giris.csproj", "{66E28EE7-45DB-48D1-A27F-C8D3FE228063}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-ClassOrnekleri", "2-ClassOrnekleri\2-ClassOrnekleri.csproj", "{2C9D9DF2-C53F-4BF2-91BF-D2248AF5A1F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{66E28EE7-45DB-48D1-A27F-C8D3FE228063}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66E28EE7-45DB-48D1-A27F-C8D3FE228063}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66E28EE7-45DB-48D1-A27F-C8D3FE228063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9D9DF2-C53F-4BF2-91BF-D2248AF5A1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9D9DF2-C53F-4BF2-91BF-D2248AF5A1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9D9DF2-C53F-4BF2-91BF-D2248AF5A1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9D9DF2-C53F-4BF2-91BF-D2248AF5A1F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
