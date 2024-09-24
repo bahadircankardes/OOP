@@ -10,8 +10,10 @@
 
   <ItemGroup>
     <None Remove="Computer\" />
+    <None Remove="Telefonlar\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Computer\" />
+    <Folder Include="Telefonlar\" />
   </ItemGroup>
 </Project>
