@@ -1,5 +1,7 @@
 ﻿using _2_ClassOrnekleri.Computer;
 
+using _2_ClassOrnekleri.Telefonlar;
+
 namespace _2_ClassOrnekleri;
 
 class Program
@@ -71,6 +73,13 @@ class Program
         computer.Ramler.Add(new Ram { Marka = "ABC", Model = "CVB", BellekTipi = BellekTipi.DDR2, Kapasite = 16, Fiyat = 3000, RamHizi = 3 });
         computer.Ramler.Add(ram);
         #endregion
+
+        AkilliTelefon akilliTelefon = new AkilliTelefon();
+        akilliTelefon.IsletimSistemi = IsletimSistemi.IOS;
+
+        CepTelefonu cepTelefonu = new CepTelefonu();
+        cepTelefonu.HasCamera = false;
+
 
         
     }

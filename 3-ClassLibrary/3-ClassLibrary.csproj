@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_3_ClassLibrary</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Okullar\" />
+    <None Remove="Sinemalar\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Okullar\" />
+    <Folder Include="Sinemalar\" />
+  </ItemGroup>
+</Project>

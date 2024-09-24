@@ -1,0 +1,12 @@
+/Users/bahadircankardes/Projects/OOP/3-ClassLibrary/obj/Debug/net7.0/3-ClassLibrary.csproj.AssemblyReference.cache
+/Users/bahadircankardes/Projects/OOP/3-ClassLibrary/obj/Debug/net7.0/3-ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/Projects/OOP/3-ClassLibrary/obj/Debug/net7.0/3-ClassLibrary.AssemblyInfoInputs.cache
+/Users/bahadircankardes/Projects/OOP/3-ClassLibrary/obj/Debug/net7.0/3-ClassLibrary.AssemblyInfo.cs
+/Users/bahadircankardes/Projects/OOP/3-ClassLibrary/obj/Debug/net7.0/3-ClassLibrary.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/OOP/3-ClassLibrary/bin/Debug/net7.0/3-ClassLibrary.deps.json
+/Users/bahadircankardes/Projects/OOP/3-ClassLibrary/bin/Debug/net7.0/3-ClassLibrary.dll
+/Users/bahadircankardes/Projects/OOP/3-ClassLibrary/bin/Debug/net7.0/3-ClassLibrary.pdb
+/Users/bahadircankardes/Projects/OOP/3-ClassLibrary/obj/Debug/net7.0/3-ClassLibrary.dll
+/Users/bahadircankardes/Projects/OOP/3-ClassLibrary/obj/Debug/net7.0/refint/3-ClassLibrary.dll
+/Users/bahadircankardes/Projects/OOP/3-ClassLibrary/obj/Debug/net7.0/3-ClassLibrary.pdb
+/Users/bahadircankardes/Projects/OOP/3-ClassLibrary/obj/Debug/net7.0/ref/3-ClassLibrary.dll

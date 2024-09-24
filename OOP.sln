@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Giris", "1-Giris\1-Giris.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-ClassOrnekleri", "2-ClassOrnekleri\2-ClassOrnekleri.csproj", "{2C9D9DF2-C53F-4BF2-91BF-D2248AF5A1F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-ClassLibrary", "3-ClassLibrary\3-ClassLibrary.csproj", "{068E2AAB-3350-4D98-8CCC-1FDB620CF100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-LibraryKullanimi", "4-LibraryKullanimi\4-LibraryKullanimi.csproj", "{FB9BCA65-4A59-407B-AEA1-7B435498740B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2C9D9DF2-C53F-4BF2-91BF-D2248AF5A1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C9D9DF2-C53F-4BF2-91BF-D2248AF5A1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C9D9DF2-C53F-4BF2-91BF-D2248AF5A1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068E2AAB-3350-4D98-8CCC-1FDB620CF100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068E2AAB-3350-4D98-8CCC-1FDB620CF100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068E2AAB-3350-4D98-8CCC-1FDB620CF100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068E2AAB-3350-4D98-8CCC-1FDB620CF100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB9BCA65-4A59-407B-AEA1-7B435498740B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9BCA65-4A59-407B-AEA1-7B435498740B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9BCA65-4A59-407B-AEA1-7B435498740B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9BCA65-4A59-407B-AEA1-7B435498740B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
