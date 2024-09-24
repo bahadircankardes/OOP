@@ -1,0 +1,5 @@
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/5-Kalitim.csproj.AssemblyReference.cache
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/5-Kalitim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/5-Kalitim.AssemblyInfoInputs.cache
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/5-Kalitim.AssemblyInfo.cs
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/5-Kalitim.csproj.CoreCompileInputs.cache
