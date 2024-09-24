@@ -3,3 +3,13 @@
 /Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/5-Kalitim.AssemblyInfoInputs.cache
 /Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/5-Kalitim.AssemblyInfo.cs
 /Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/5-Kalitim.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/bin/Debug/net7.0/5-Kalitim
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/bin/Debug/net7.0/5-Kalitim.deps.json
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/bin/Debug/net7.0/5-Kalitim.runtimeconfig.json
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/bin/Debug/net7.0/5-Kalitim.dll
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/bin/Debug/net7.0/5-Kalitim.pdb
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/5-Kalitim.dll
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/refint/5-Kalitim.dll
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/5-Kalitim.pdb
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/5-Kalitim.genruntimeconfig.cache
+/Users/bahadircankardes/Projects/OOP/5-Kalitim/obj/Debug/net7.0/ref/5-Kalitim.dll

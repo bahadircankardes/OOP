@@ -1,7 +1,7 @@
 ﻿using System;
 namespace _5_Kalitim.SirketPersonel
 {
-	public class ITTasarimci
+	public class ITTasarimci:Personel
 	{
 		public void WebTasarimiYap()
 		{

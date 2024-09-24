@@ -12,9 +12,15 @@ namespace _5_Kalitim.SirketPersonel
 	public class Personel : Kisi
 	{
 
-		public double Maas { get; set; }
+		public double Maas { get; set; } = 17002;
 		public int DepartmanId { get; set; }
 		public Departman Departman { get; set; }
+
+		public Personel() //Constructor
+		{
+
+		}
+
 		public bool IseZamanindaGel ()
 		{
 			return true;

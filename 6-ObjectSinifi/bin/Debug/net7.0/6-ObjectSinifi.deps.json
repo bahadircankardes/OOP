@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "6-ObjectSinifi/1.0.0": {
+        "dependencies": {
+          "3-ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "6-ObjectSinifi.dll": {}
+        }
+      },
+      "3-ClassLibrary/1.0.0": {
+        "runtime": {
+          "3-ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "6-ObjectSinifi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "3-ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
