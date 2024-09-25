@@ -16,6 +16,26 @@ namespace _5_Kalitim.SirketPersonel
             Soyadi = String.Empty;
             TcNo = String.Empty;
         }
+
+        public Kisi(string ad, string soyad)
+        {
+            Adi = ad;
+            Soyadi = soyad;
+            
+        }
+
+        public Kisi(string ad, string soyad, string tcNo) : this (ad, soyad)
+        {
+            
+            TcNo = tcNo;
+
+        }
+        public Kisi(string ad, string soyad, string tcNo, string gsm) : this (ad, soyad, tcNo)
+        {
+            
+            Gsm = gsm;
+
+        }
     }
 }
 

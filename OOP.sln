@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Kalitim", "5-Kalitim\5-Ka
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-ObjectSinifi", "6-ObjectSinifi\6-ObjectSinifi.csproj", "{96942C0C-4F62-4D9C-93F1-A923B144F1D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-SingletonPattern", "7-SingletonPattern\7-SingletonPattern.csproj", "{8F0F86E2-7762-46B7-B021-60FD004CBE77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{96942C0C-4F62-4D9C-93F1-A923B144F1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96942C0C-4F62-4D9C-93F1-A923B144F1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96942C0C-4F62-4D9C-93F1-A923B144F1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0F86E2-7762-46B7-B021-60FD004CBE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0F86E2-7762-46B7-B021-60FD004CBE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0F86E2-7762-46B7-B021-60FD004CBE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0F86E2-7762-46B7-B021-60FD004CBE77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

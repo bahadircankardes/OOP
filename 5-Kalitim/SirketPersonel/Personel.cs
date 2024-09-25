@@ -24,10 +24,9 @@ namespace _5_Kalitim.SirketPersonel
 		//Bir personel olusturuldugunda (instance alindiginda)
 		//mutlakaa ozluk bılgılerı gırılecek
 
-		public Personel(string ad, string soyad)
+		public Personel(string ad, string soyad):base(ad, soyad)
 		{
-			Adi = ad;
-			Soyadi = soyad;
+			//Buraya pesonel ileilgili baska kodlar yazilabilir.
 		}
 
 		public bool IseZamanindaGel ()
