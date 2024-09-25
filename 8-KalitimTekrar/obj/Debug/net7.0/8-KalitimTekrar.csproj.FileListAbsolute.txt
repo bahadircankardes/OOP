@@ -3,3 +3,13 @@
 /Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/obj/Debug/net7.0/8-KalitimTekrar.AssemblyInfoInputs.cache
 /Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/obj/Debug/net7.0/8-KalitimTekrar.AssemblyInfo.cs
 /Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/obj/Debug/net7.0/8-KalitimTekrar.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/bin/Debug/net7.0/8-KalitimTekrar
+/Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/bin/Debug/net7.0/8-KalitimTekrar.deps.json
+/Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/bin/Debug/net7.0/8-KalitimTekrar.runtimeconfig.json
+/Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/bin/Debug/net7.0/8-KalitimTekrar.dll
+/Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/bin/Debug/net7.0/8-KalitimTekrar.pdb
+/Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/obj/Debug/net7.0/8-KalitimTekrar.dll
+/Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/obj/Debug/net7.0/refint/8-KalitimTekrar.dll
+/Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/obj/Debug/net7.0/8-KalitimTekrar.pdb
+/Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/obj/Debug/net7.0/8-KalitimTekrar.genruntimeconfig.cache
+/Users/bahadircankardes/Projects/OOP/8-KalitimTekrar/obj/Debug/net7.0/ref/8-KalitimTekrar.dll

@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-SingletonPattern", "7-Sin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-KalitimTekrar", "8-KalitimTekrar\8-KalitimTekrar.csproj", "{00E71251-40E7-4AAD-8684-A474E88EA0F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Polimorfizm", "9-Polimorfizm\9-Polimorfizm.csproj", "{D6DFC45F-F169-4441-9E84-6EA934F6B583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-SoyutlamaAbstract", "10-SoyutlamaAbstract\10-SoyutlamaAbstract.csproj", "{6727C847-9E10-4B1E-B5DD-85CB91E6E16C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{00E71251-40E7-4AAD-8684-A474E88EA0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00E71251-40E7-4AAD-8684-A474E88EA0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00E71251-40E7-4AAD-8684-A474E88EA0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DFC45F-F169-4441-9E84-6EA934F6B583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DFC45F-F169-4441-9E84-6EA934F6B583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DFC45F-F169-4441-9E84-6EA934F6B583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DFC45F-F169-4441-9E84-6EA934F6B583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6727C847-9E10-4B1E-B5DD-85CB91E6E16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6727C847-9E10-4B1E-B5DD-85CB91E6E16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6727C847-9E10-4B1E-B5DD-85CB91E6E16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6727C847-9E10-4B1E-B5DD-85CB91E6E16C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
