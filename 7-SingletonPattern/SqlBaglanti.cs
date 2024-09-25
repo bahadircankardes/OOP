@@ -11,6 +11,10 @@ namespace _7_SingletonPattern
 
 
         private SqlBaglanti()
+            //Constructor ı private a cekince nesneyi new leyemezsin.
+            //Sadece onun icerisindeki static metodu cagır yeter
+            //1 tane sql connection olması yeterli o yüzden private a cekiyoruz
+
         {
 
         }

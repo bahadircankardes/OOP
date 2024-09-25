@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_8_KalitimTekrar</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Hayvanlar\" />
+    <None Remove="Hayvanlar\KanatliHayvanlar\" />
+    <None Remove="Kutuphane\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Hayvanlar\" />
+    <Folder Include="Hayvanlar\KanatliHayvanlar\" />
+    <Folder Include="Kutuphane\" />
+  </ItemGroup>
+</Project>
