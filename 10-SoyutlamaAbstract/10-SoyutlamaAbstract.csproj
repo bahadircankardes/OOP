@@ -10,8 +10,10 @@
 
   <ItemGroup>
     <None Remove="AlanHesaplama\" />
+    <None Remove="MuzikAletleri\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="AlanHesaplama\" />
+    <Folder Include="MuzikAletleri\" />
   </ItemGroup>
 </Project>
