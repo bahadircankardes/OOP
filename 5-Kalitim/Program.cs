@@ -27,11 +27,11 @@ class Program
 
 
         #region Constructor'li sinif kullanimi
-        Sekreter sekreter = new Sekreter();
-        sekreter.Adi = "Hulya";
+        Sekreter sekreter = new Sekreter("Ayse", "Kaya");
+        
 
-        SatisMuduru satisMuduru = new SatisMuduru();
-        satisMuduru.Adi = "Turgut";
+        SatisMuduru satisMuduru = new SatisMuduru("Fatma", "Sert");
+        
         Console.WriteLine(satisMuduru.Maas);
 
 

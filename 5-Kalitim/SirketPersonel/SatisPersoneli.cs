@@ -3,8 +3,8 @@ namespace _5_Kalitim.SirketPersonel
 {
 	public class SatisPersoneli : Personel
 	{
-		public SatisPersoneli()
-		{
+		public SatisPersoneli(string ad, string soyad) : base(ad, soyad)
+        {
 			Maas = Maas * 1.5;
 		}
 

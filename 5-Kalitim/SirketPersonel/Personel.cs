@@ -16,9 +16,18 @@ namespace _5_Kalitim.SirketPersonel
 		public int DepartmanId { get; set; }
 		public Departman Departman { get; set; }
 
-		public Personel() //Constructor
-		{
+		//public Personel() //Constructor
+		//{
 
+		//}
+
+		//Bir personel olusturuldugunda (instance alindiginda)
+		//mutlakaa ozluk bılgılerı gırılecek
+
+		public Personel(string ad, string soyad)
+		{
+			Adi = ad;
+			Soyadi = soyad;
 		}
 
 		public bool IseZamanindaGel ()

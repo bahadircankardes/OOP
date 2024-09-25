@@ -3,7 +3,13 @@ namespace _5_Kalitim.SirketPersonel
 {
 	public class InsanKaynaklari : Personel
 	{
-		public bool IseAlimGorüsmesiYap(Kisi kisi)
+		public InsanKaynaklari(string ad, string soyad) : base(ad, soyad)
+		{
+
+		}
+
+
+        public bool IseAlimGorüsmesiYap(Kisi kisi)
 		{
 			if (kisi.TcNo != null)
 			{

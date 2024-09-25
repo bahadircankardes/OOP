@@ -3,7 +3,12 @@ namespace _5_Kalitim.SirketPersonel
 {
 	public class ITTasarimci:Personel
 	{
-		public void WebTasarimiYap()
+		public ITTasarimci(string ad, string soyad) : base(ad, soyad)
+		{
+
+		}
+
+        public void WebTasarimiYap()
 		{
 
 		}
