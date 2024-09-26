@@ -3,6 +3,8 @@ namespace _10_SoyutlamaAbstract.AlanHesaplama
 {
     public class Dikdortgen : Sekil
     {
+        public override int KisaKenar { get; set ; } //kisakenar abstract oldugundan override
+
         public override double AlanHesapla()
         {
             return UzunKenar * KisaKenar;

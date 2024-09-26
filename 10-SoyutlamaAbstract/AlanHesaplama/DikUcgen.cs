@@ -3,6 +3,7 @@ namespace _10_SoyutlamaAbstract.AlanHesaplama
 {
     public class DikUcgen : Sekil
     {
+        public override int KisaKenar { get; set; }
         public override double AlanHesapla()
         {
             return (KisaKenar * UzunKenar)/2;
