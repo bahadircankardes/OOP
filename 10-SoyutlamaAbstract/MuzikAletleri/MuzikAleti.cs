@@ -15,7 +15,8 @@ namespace _10_SoyutlamaAbstract.MuzikAletleri
 		//}
 
 		public abstract string Cal();
-        public abstract string AkordYap();
+		public abstract string AkordYap();
+		
 
 
     }

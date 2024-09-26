@@ -24,6 +24,11 @@ namespace _10_SoyutlamaAbstract.AlanHesaplama
         //Herhangi bir class icerisinde istenilen member'lardan birisi
         //virtual olarak isaretlenebilir. Member'dan kasit metod ya da
         //property
+
+        public override string ToString()
+        {
+            return "Karenin" + base.ToString();
+        }
     }
 }
 

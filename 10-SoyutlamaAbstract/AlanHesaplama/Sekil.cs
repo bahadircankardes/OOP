@@ -53,6 +53,11 @@ namespace _10_SoyutlamaAbstract.AlanHesaplama
         {
             return $"Bu Seklin Kisa Kenari = {KisaKenar}, Uzun Kenari = {UzunKenar}";
         }
+
+        public override string ToString()
+        {
+            return $"Kisa Kenar:{KisaKenar}, Uzun Kenar: {UzunKenar} ";
+        }
     }
 }
 

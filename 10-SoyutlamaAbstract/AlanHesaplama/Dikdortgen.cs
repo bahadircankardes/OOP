@@ -20,6 +20,11 @@ namespace _10_SoyutlamaAbstract.AlanHesaplama
             return $"Bu Dikdorgenin Kisa Kenari = {KisaKenar}, Uzun Kenari = {UzunKenar}";
 
         }
+
+        public override string ToString()
+        {
+            return "Dikdorgenin" + base.ToString();
+        }
     }
 }
 
