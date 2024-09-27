@@ -8,4 +8,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="CepTelefonlari\" />
+    <None Remove="Hayvanlar\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CepTelefonlari\" />
+    <Folder Include="Hayvanlar\" />
+  </ItemGroup>
 </Project>
