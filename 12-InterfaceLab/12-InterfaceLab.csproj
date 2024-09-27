@@ -15,6 +15,9 @@
     <None Remove="FutbolOrnegi\" />
     <None Remove="FutbolOrnegi\Abstract\" />
     <None Remove="FutbolOrnegi\Concrete\" />
+    <None Remove="UretimYonetimi\" />
+    <None Remove="UretimYonetimi\Abstract\" />
+    <None Remove="UretimYonetimi\Concrete\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="LokantaOrnegi\" />
@@ -23,5 +26,8 @@
     <Folder Include="FutbolOrnegi\" />
     <Folder Include="FutbolOrnegi\Abstract\" />
     <Folder Include="FutbolOrnegi\Concrete\" />
+    <Folder Include="UretimYonetimi\" />
+    <Folder Include="UretimYonetimi\Abstract\" />
+    <Folder Include="UretimYonetimi\Concrete\" />
   </ItemGroup>
 </Project>

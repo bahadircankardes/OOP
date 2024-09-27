@@ -40,7 +40,7 @@ namespace _12_InterfaceLab.FutbolOrnegi.Abstract
 
         public override string ToString()
         {
-            return $"{AdSoyad} \n Dogum Tarihi: {DogumTarihi} \n Mevki: {Mevki}  Sut Gucu: {Sutgucu} Milli mi? {Millimi}";
+            return $"\n{AdSoyad} \n Dogum Tarihi: {DogumTarihi} \n Mevki: {Mevki} \n Sut Gucu: {Sutgucu} \n Agresiflik: {Agresiflik} \n Dayaniklilik: {Dayaniklilik} Milli mi? {Millimi}";
         }
     }
 }
