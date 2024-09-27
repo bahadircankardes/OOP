@@ -15,6 +15,9 @@
     <None Remove="FirinOrnegi\" />
     <None Remove="FirinOrnegi\Abstract\" />
     <None Remove="FirinOrnegi\Concrete\" />
+    <None Remove="Loglama\" />
+    <None Remove="Loglama\Abstract\" />
+    <None Remove="Loglama\Concrete\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Personeller\" />
@@ -23,5 +26,8 @@
     <Folder Include="FirinOrnegi\" />
     <Folder Include="FirinOrnegi\Abstract\" />
     <Folder Include="FirinOrnegi\Concrete\" />
+    <Folder Include="Loglama\" />
+    <Folder Include="Loglama\Abstract\" />
+    <Folder Include="Loglama\Concrete\" />
   </ItemGroup>
 </Project>
