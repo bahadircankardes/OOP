@@ -1,11 +1,14 @@
 ﻿using System;
+using _12_InterfaceLab.LokantaOrnegi.Abstract;
+
 namespace _12_InterfaceLab.LokantaOrnegi.Concrete
 {
-	public class Pilav
+	public class Pilav:IPisirilebilir
 	{
-		public Pilav()
-		{
-		}
-	}
+        public void pisir()
+        {
+            Console.WriteLine($"{this.GetType().Name} Pisti...");
+        }
+    }
 }
 
