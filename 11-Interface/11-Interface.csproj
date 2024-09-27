@@ -12,10 +12,16 @@
     <None Remove="Personeller\" />
     <None Remove="Personeller\Abstract\" />
     <None Remove="Personeller\Concrete\" />
+    <None Remove="FirinOrnegi\" />
+    <None Remove="FirinOrnegi\Abstract\" />
+    <None Remove="FirinOrnegi\Concrete\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Personeller\" />
     <Folder Include="Personeller\Abstract\" />
     <Folder Include="Personeller\Concrete\" />
+    <Folder Include="FirinOrnegi\" />
+    <Folder Include="FirinOrnegi\Abstract\" />
+    <Folder Include="FirinOrnegi\Concrete\" />
   </ItemGroup>
 </Project>

@@ -1,4 +1,5 @@
-﻿using _11_Interface.Personeller;
+﻿using _11_Interface.FirinOrnegi.Concrete;
+using _11_Interface.Personeller;
 
 namespace _11_Interface;
 
@@ -24,7 +25,17 @@ class Program
         #endregion
 
 
+        #region Firin Ornegi
+
+        Usta usta = new Usta() { Adi = "Hasan Usta" };
+        Makine makine = new Makine() { Adi = "Bosch" };
+        KaraFirin karaFirin = new KaraFirin();
+        karaFirin.EkmekPisir(usta);
+        karaFirin.EkmekPisir(makine);
+
+        #endregion
+
+
 
     }
 }
-
