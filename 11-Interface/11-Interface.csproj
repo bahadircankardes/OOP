@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_11_Interface</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Personeller\" />
+    <None Remove="Personeller\Abstract\" />
+    <None Remove="Personeller\Concrete\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Personeller\" />
+    <Folder Include="Personeller\Abstract\" />
+    <Folder Include="Personeller\Concrete\" />
+  </ItemGroup>
+</Project>

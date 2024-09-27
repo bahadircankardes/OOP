@@ -1,0 +1,15 @@
+/Users/bahadircankardes/Projects/OOP/11-Interface/obj/Debug/net7.0/11-Interface.csproj.AssemblyReference.cache
+/Users/bahadircankardes/Projects/OOP/11-Interface/obj/Debug/net7.0/11-Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/Projects/OOP/11-Interface/obj/Debug/net7.0/11-Interface.AssemblyInfoInputs.cache
+/Users/bahadircankardes/Projects/OOP/11-Interface/obj/Debug/net7.0/11-Interface.AssemblyInfo.cs
+/Users/bahadircankardes/Projects/OOP/11-Interface/obj/Debug/net7.0/11-Interface.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/OOP/11-Interface/bin/Debug/net7.0/11-Interface
+/Users/bahadircankardes/Projects/OOP/11-Interface/bin/Debug/net7.0/11-Interface.deps.json
+/Users/bahadircankardes/Projects/OOP/11-Interface/bin/Debug/net7.0/11-Interface.runtimeconfig.json
+/Users/bahadircankardes/Projects/OOP/11-Interface/bin/Debug/net7.0/11-Interface.dll
+/Users/bahadircankardes/Projects/OOP/11-Interface/bin/Debug/net7.0/11-Interface.pdb
+/Users/bahadircankardes/Projects/OOP/11-Interface/obj/Debug/net7.0/11-Interface.dll
+/Users/bahadircankardes/Projects/OOP/11-Interface/obj/Debug/net7.0/refint/11-Interface.dll
+/Users/bahadircankardes/Projects/OOP/11-Interface/obj/Debug/net7.0/11-Interface.pdb
+/Users/bahadircankardes/Projects/OOP/11-Interface/obj/Debug/net7.0/11-Interface.genruntimeconfig.cache
+/Users/bahadircankardes/Projects/OOP/11-Interface/obj/Debug/net7.0/ref/11-Interface.dll
