@@ -12,10 +12,16 @@
     <None Remove="LokantaOrnegi\" />
     <None Remove="LokantaOrnegi\Concrete\" />
     <None Remove="LokantaOrnegi\Abstract\" />
+    <None Remove="FutbolOrnegi\" />
+    <None Remove="FutbolOrnegi\Abstract\" />
+    <None Remove="FutbolOrnegi\Concrete\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="LokantaOrnegi\" />
     <Folder Include="LokantaOrnegi\Concrete\" />
     <Folder Include="LokantaOrnegi\Abstract\" />
+    <Folder Include="FutbolOrnegi\" />
+    <Folder Include="FutbolOrnegi\Abstract\" />
+    <Folder Include="FutbolOrnegi\Concrete\" />
   </ItemGroup>
 </Project>

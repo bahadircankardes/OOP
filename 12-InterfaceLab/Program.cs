@@ -7,6 +7,9 @@ class Program
 {
     static void Main(string[] args)
     {
+        #region Lokanta Ornegi
+
+       
         //Borsa lokantasi yemek psisirecek
         //Kofte, Pilav, Cacik, Salata, TazeFasulye, Ispanak
         Kofte kofte = new Kofte();
@@ -66,6 +69,11 @@ class Program
         //BorsaLokantasi borsaLokantasi = new BorsaLokantasi();
         //borsaLokantasi.YemekPisir(pisirileiblirs);
         //borsaLokantasi.YemekYap(yapilabilirs);
+        #endregion
+
+        #region FutbolOrnegi
+
+        #endregion
     }
 }
 
