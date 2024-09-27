@@ -3,14 +3,14 @@ using _11_Interface.Personeller.Abstract;
 
 namespace _11_Interface.Personeller
 {
-	public class SatisMuduru:Personel,ISatisMuduru
+	public class SatisMuduru:SatisPersoneli,ISatisMuduru,IIsGorusmesiYapabilir,IIstenCikartabilir
 	{
         public void SatisEkibiyleToplantiYap()
         {
 
         }
 
-        public void IstenCikart()
+        public void IstenCikar()
         {
 
         }

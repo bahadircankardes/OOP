@@ -3,8 +3,9 @@ using _11_Interface.Personeller.Abstract;
 
 namespace _11_Interface.Personeller
 {
-    public class InsanKaynaklari : Personel, IInsanKaynaklari
-	{
+    public class InsanKaynaklari : Personel, IInsanKaynaklari,IIstenCikartabilir,IIsGorusmesiYapabilir
+	{//Interface ınterface'den kalitim alabilir.
+	
         public int MyProperty { get ; set ; }
 
         public void OryantasyonYap()
@@ -17,14 +18,14 @@ namespace _11_Interface.Personeller
 
         }
 
-        public void IsGrusmesiYap()
+        public void IstenCikar()
         {
-
+            
         }
 
-        public void IstenCıkar()
+        public void IsGorusmesiYap()
         {
-
+           
         }
     }
 }
