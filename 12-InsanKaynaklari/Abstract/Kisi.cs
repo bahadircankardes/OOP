@@ -3,9 +3,18 @@ namespace _12_InsanKaynaklari.Abstract
 {
 	public class Kisi
 	{
-		public Kisi()
-		{
-		}
-	}
+		public string Ad { get; set; }
+		public string Soyad { get; set; }
+		public bool Cinsiyet { get; set; }
+		public string Email { get; set; }
+		public string Gsm { get; set; }
+
+        public override string ToString()
+        {
+			return $"{Ad} {Soyad} {Cinsiyet}";
+        }
+    }
+
+	
 }
 
