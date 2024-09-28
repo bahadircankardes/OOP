@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "wpnPtugV55/AzhKEgJhor8hcH3wVxxHqDHhx2CbF6TgXgPlemli6oE6Ae+0RaJBRBGdDmM4PmUGlo/jMhP+cYg==",
+  "success": true,
+  "projectFilePath": "/Users/bahadircankardes/Projects/OOP/16-ExtensionMetodlar/16-ExtensionMetodlar.csproj",
+  "expectedPackageFiles": [
+    "/Users/bahadircankardes/.nuget/packages/bogus/35.6.1/bogus.35.6.1.nupkg.sha512",
+    "/Users/bahadircankardes/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/bahadircankardes/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/Users/bahadircankardes/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "/Users/bahadircankardes/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/bahadircankardes/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/bahadircankardes/.nuget/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/bahadircankardes/.nuget/packages/system.data.sqlclient/4.8.6/system.data.sqlclient.4.8.6.nupkg.sha512",
+    "/Users/bahadircankardes/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/Users/bahadircankardes/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
