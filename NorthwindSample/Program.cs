@@ -1,4 +1,4 @@
-﻿namespace NorthwindSample;
+﻿namespace _17_NorthwindSample;
 
 class Program
 {
