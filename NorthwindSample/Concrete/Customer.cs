@@ -15,6 +15,10 @@ namespace NorthwindSample.Concrete
         public string? Phone { get; set; }
         public string? Fax { get; set; }
 
+        public List<Order>? Orders { get; set; }//Bir musterinin birden cok
+												//orderi olabilir bire çok iliski
+												//Buna Navigation Property deniyor
+
 
 
 

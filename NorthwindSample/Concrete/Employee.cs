@@ -12,8 +12,15 @@ namespace NorthwindSample.Concrete
         public DateTime? HireDate { get; set; }
         public Byte[]? Photo { get; set; }
         public string? Notes { get; set; }
-        public int? ReportsTo { get; set; }
+
+        public int? ReportsTo { get; set; } //Kendi icinde iliski oldugundan
+        public Employee ReportsToEmployee { get; set; }//Bunu yazdık.
+                                                       //Navigation Property
+
         public string? Photo_Path { get; set; }
+
+        public List<Order>? Orders { get; set; }
+
 
 
 

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bahadircankardes/Projects/OOP/NorthwindSample/NorthwindSample.csproj",
-      "projectName": "NorthwindSample",
-      "projectPath": "/Users/bahadircankardes/Projects/OOP/NorthwindSample/NorthwindSample.csproj",
+      "projectUniqueName": "/Users/bahadircankardes/Projects/OOP/NorthwindSample/17-NorthwindSample.csproj",
+      "projectName": "17-NorthwindSample",
+      "projectPath": "/Users/bahadircankardes/Projects/OOP/NorthwindSample/17-NorthwindSample.csproj",
       "packagesPath": "/Users/bahadircankardes/.nuget/packages/",
       "outputPath": "/Users/bahadircankardes/Projects/OOP/NorthwindSample/obj/",
       "projectStyle": "PackageReference",
