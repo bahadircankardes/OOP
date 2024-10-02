@@ -11,9 +11,11 @@
   <ItemGroup>
     <None Remove="Computer\" />
     <None Remove="Telefonlar\" />
+    <None Remove="Emlak\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Computer\" />
     <Folder Include="Telefonlar\" />
+    <Folder Include="Emlak\" />
   </ItemGroup>
 </Project>
