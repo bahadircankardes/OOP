@@ -54,12 +54,31 @@ class Program
         Console.WriteLine("******************************************");
 
 
+        //Sorgu islemi
         var customers = customermanager.GetQuery("select * from customers where country = 'UK'");
         foreach (var item in customers)
         {
             Console.WriteLine($"{item.customer_id} {item.company_name} {item.country}");
         }
 
+        //Silme Islemi
+        //var dokuzusil = shippermanager.GetById(13); //silme islemi yapmak icin one getırıyoruz
+        //shippermanager.Delete(dokuzusil); //Sonra siliyoruz
+
+
+        //Degistirme islemi
+
+        var shipper = shippermanager.GetById(8);
+        shipper.phone = "444 1 444";
+        shipper.company_name = "Maras Kargo";
+        shippermanager.Update(shipper);
+
+        var result11 = shippermanager.GetAll();
+
+        foreach (var item in result11)
+        {
+            Console.WriteLine($"{item.shipper_id} {item.company_name} {item.phone?.ToString() ?? "N/A"}");
+        }
     }
 }
 

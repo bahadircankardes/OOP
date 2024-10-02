@@ -8,7 +8,8 @@ using Npgsql;
 namespace _21_GenelTekrar.Concrete
 {
     public class Manager<T>(IDbConnection db) : IManager<T> where T : class
-    {
+    {//IDbConnection yazarsak  sql veya postgre gondermen fark etmiyor.
+     //NpgsqlConnection postgre için yazilabilir.
         public List<T> GetAll()
         {
             return db.GetAll<T>().ToList();
