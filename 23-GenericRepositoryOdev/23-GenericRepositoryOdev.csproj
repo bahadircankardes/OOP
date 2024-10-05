@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_23_GenericRepositoryOdev</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.35" />
+    <PackageReference Include="Dapper.Contrib" Version="2.0.78" />
+    <PackageReference Include="Npgsql" Version="8.0.4" />
+    <PackageReference Include="MySql.Data" Version="9.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Entities\" />
+    <None Remove="GenericRepository\" />
+    <None Remove="GenericRepository\Abstract\" />
+    <None Remove="GenericRepository\Concrete\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="GenericRepository\" />
+    <Folder Include="GenericRepository\Abstract\" />
+    <Folder Include="GenericRepository\Concrete\" />
+  </ItemGroup>
+</Project>
