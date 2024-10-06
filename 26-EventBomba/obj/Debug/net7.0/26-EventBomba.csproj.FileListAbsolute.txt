@@ -1,0 +1,15 @@
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/bin/Debug/net7.0/26-EventBomba
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/bin/Debug/net7.0/26-EventBomba.deps.json
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/bin/Debug/net7.0/26-EventBomba.runtimeconfig.json
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/bin/Debug/net7.0/26-EventBomba.dll
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/bin/Debug/net7.0/26-EventBomba.pdb
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/obj/Debug/net7.0/26-EventBomba.csproj.AssemblyReference.cache
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/obj/Debug/net7.0/26-EventBomba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/obj/Debug/net7.0/26-EventBomba.AssemblyInfoInputs.cache
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/obj/Debug/net7.0/26-EventBomba.AssemblyInfo.cs
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/obj/Debug/net7.0/26-EventBomba.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/obj/Debug/net7.0/26-EventBomba.dll
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/obj/Debug/net7.0/refint/26-EventBomba.dll
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/obj/Debug/net7.0/26-EventBomba.pdb
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/obj/Debug/net7.0/26-EventBomba.genruntimeconfig.cache
+/Users/bahadircankardes/Projects/OOP/26-EventBomba/obj/Debug/net7.0/ref/26-EventBomba.dll
