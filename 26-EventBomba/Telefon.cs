@@ -15,6 +15,10 @@ namespace _26_EventBomba
 			{
 				KelimeKullanildiEvent();
 			}
+			else if (kelime.ToLower()=="kapat")
+			{
+				return;
+			}
 			else
 			{
 				Gorusme();

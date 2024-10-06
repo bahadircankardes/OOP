@@ -1,0 +1,15 @@
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/bin/Debug/net7.0/27-EventTrafik
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/bin/Debug/net7.0/27-EventTrafik.deps.json
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/bin/Debug/net7.0/27-EventTrafik.runtimeconfig.json
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/bin/Debug/net7.0/27-EventTrafik.dll
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/bin/Debug/net7.0/27-EventTrafik.pdb
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/obj/Debug/net7.0/27-EventTrafik.csproj.AssemblyReference.cache
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/obj/Debug/net7.0/27-EventTrafik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/obj/Debug/net7.0/27-EventTrafik.AssemblyInfoInputs.cache
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/obj/Debug/net7.0/27-EventTrafik.AssemblyInfo.cs
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/obj/Debug/net7.0/27-EventTrafik.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/obj/Debug/net7.0/27-EventTrafik.dll
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/obj/Debug/net7.0/refint/27-EventTrafik.dll
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/obj/Debug/net7.0/27-EventTrafik.pdb
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/obj/Debug/net7.0/27-EventTrafik.genruntimeconfig.cache
+/Users/bahadircankardes/Projects/OOP/27-EventTrafik/obj/Debug/net7.0/ref/27-EventTrafik.dll

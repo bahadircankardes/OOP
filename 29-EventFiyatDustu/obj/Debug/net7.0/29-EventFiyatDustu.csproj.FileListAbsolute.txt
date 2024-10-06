@@ -1,0 +1,15 @@
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/bin/Debug/net7.0/29-EventFiyatDustu
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/bin/Debug/net7.0/29-EventFiyatDustu.deps.json
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/bin/Debug/net7.0/29-EventFiyatDustu.runtimeconfig.json
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/bin/Debug/net7.0/29-EventFiyatDustu.dll
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/bin/Debug/net7.0/29-EventFiyatDustu.pdb
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/obj/Debug/net7.0/29-EventFiyatDustu.csproj.AssemblyReference.cache
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/obj/Debug/net7.0/29-EventFiyatDustu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/obj/Debug/net7.0/29-EventFiyatDustu.AssemblyInfoInputs.cache
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/obj/Debug/net7.0/29-EventFiyatDustu.AssemblyInfo.cs
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/obj/Debug/net7.0/29-EventFiyatDustu.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/obj/Debug/net7.0/29-EventFiyatDustu.dll
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/obj/Debug/net7.0/refint/29-EventFiyatDustu.dll
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/obj/Debug/net7.0/29-EventFiyatDustu.pdb
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/obj/Debug/net7.0/29-EventFiyatDustu.genruntimeconfig.cache
+/Users/bahadircankardes/Projects/OOP/29-EventFiyatDustu/obj/Debug/net7.0/ref/29-EventFiyatDustu.dll

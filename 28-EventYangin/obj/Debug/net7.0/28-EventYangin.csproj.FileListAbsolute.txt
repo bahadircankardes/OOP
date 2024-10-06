@@ -1,0 +1,15 @@
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/bin/Debug/net7.0/28-EventYangin
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/bin/Debug/net7.0/28-EventYangin.deps.json
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/bin/Debug/net7.0/28-EventYangin.runtimeconfig.json
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/bin/Debug/net7.0/28-EventYangin.dll
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/bin/Debug/net7.0/28-EventYangin.pdb
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/obj/Debug/net7.0/28-EventYangin.csproj.AssemblyReference.cache
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/obj/Debug/net7.0/28-EventYangin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/obj/Debug/net7.0/28-EventYangin.AssemblyInfoInputs.cache
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/obj/Debug/net7.0/28-EventYangin.AssemblyInfo.cs
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/obj/Debug/net7.0/28-EventYangin.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/obj/Debug/net7.0/28-EventYangin.dll
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/obj/Debug/net7.0/refint/28-EventYangin.dll
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/obj/Debug/net7.0/28-EventYangin.pdb
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/obj/Debug/net7.0/28-EventYangin.genruntimeconfig.cache
+/Users/bahadircankardes/Projects/OOP/28-EventYangin/obj/Debug/net7.0/ref/28-EventYangin.dll
