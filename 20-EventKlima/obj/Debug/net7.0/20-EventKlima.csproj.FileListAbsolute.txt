@@ -1,0 +1,15 @@
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/bin/Debug/net7.0/20-EventKlima
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/bin/Debug/net7.0/20-EventKlima.deps.json
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/bin/Debug/net7.0/20-EventKlima.runtimeconfig.json
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/bin/Debug/net7.0/20-EventKlima.dll
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/bin/Debug/net7.0/20-EventKlima.pdb
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/obj/Debug/net7.0/20-EventKlima.csproj.AssemblyReference.cache
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/obj/Debug/net7.0/20-EventKlima.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/obj/Debug/net7.0/20-EventKlima.AssemblyInfoInputs.cache
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/obj/Debug/net7.0/20-EventKlima.AssemblyInfo.cs
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/obj/Debug/net7.0/20-EventKlima.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/obj/Debug/net7.0/20-EventKlima.dll
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/obj/Debug/net7.0/refint/20-EventKlima.dll
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/obj/Debug/net7.0/20-EventKlima.pdb
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/obj/Debug/net7.0/20-EventKlima.genruntimeconfig.cache
+/Users/bahadircankardes/Projects/OOP/20-EventKlima/obj/Debug/net7.0/ref/20-EventKlima.dll
