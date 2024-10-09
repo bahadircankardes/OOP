@@ -1,4 +1,7 @@
-﻿namespace _31_ActionPredicateFucnDelegate;
+﻿using System;
+using System.Net;
+
+namespace _31_ActionPredicateFucnDelegate;
 
 class Program
 {
@@ -60,7 +63,7 @@ class Program
 
         #endregion
 
-        #region Predicate ve Lamda Expression
+        #region Predicate ve Lamda Expression (BILINIR AMA COK KULLANILMAZ)
         // Predicate delegate System namesapace icerisinde olan ve geriye bool donen
         // icerisine generic olacak sekilde en fazla 16 adet parametre alan
         //  metodlarin imzasini temsil eden bir delegate dir.
@@ -75,13 +78,27 @@ class Program
         var ciftsayilar = list.Where(sayi => sayi % 2 == 0).ToList();
 
         ciftsayilar.ForEach(sayi => Console.WriteLine(sayi)); //Foreach metodu Action<int> 
-        //delegate alan bir yapisi vardir.
+                                                              //delegate alan bir yapisi vardir.
+
+        #endregion
+        #region Func delegate(COK KULLANILIR)
+
+        //Func < T1,T2.....TOut > Seklinde tanimlanan en son verilen
+        //parametreyi geri donus tipi olarak kabul eden bir delegate'dir.
+        //Butun ozel delege turlerini temsil edecek sekilde esnek bir generic delege tipidir.
+        
+
+        Func<int, bool> func1 = new Func<int, bool>(TekCift);
+        Func<int, bool> func2 = sayi => sayi % 2 == 0;
+        Func<int> func3; //Geriye  int donen ve parametre almayan metodlari temsil eder.
+
 
 
         #endregion
 
+        list.Where(p => p % 2 == 0).ToList();
 
-        Console.WriteLine("Hello, World!");
+
 
     }
 

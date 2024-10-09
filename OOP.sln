@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31- ActionPredicateFucnDele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-EventKlima", "20-EventKlima\20-EventKlima.csproj", "{34A9C541-83AD-4200-B4BF-EE189ADDF44C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32-FuncDelegateOrnegi", "32-FuncDelegateOrnegi\32-FuncDelegateOrnegi.csproj", "{4F055A78-77A2-4BED-985F-7A4B46A25FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33-DictionaryVe_OzelListeler", "33-DictionaryVe_OzelListeler\33-DictionaryVe_OzelListeler.csproj", "{C3894E10-3E3C-4400-98C2-77EF9B965B6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +193,14 @@ Global
 		{34A9C541-83AD-4200-B4BF-EE189ADDF44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34A9C541-83AD-4200-B4BF-EE189ADDF44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34A9C541-83AD-4200-B4BF-EE189ADDF44C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F055A78-77A2-4BED-985F-7A4B46A25FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F055A78-77A2-4BED-985F-7A4B46A25FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F055A78-77A2-4BED-985F-7A4B46A25FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F055A78-77A2-4BED-985F-7A4B46A25FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3894E10-3E3C-4400-98C2-77EF9B965B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3894E10-3E3C-4400-98C2-77EF9B965B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3894E10-3E3C-4400-98C2-77EF9B965B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3894E10-3E3C-4400-98C2-77EF9B965B6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

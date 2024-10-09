@@ -1,0 +1,15 @@
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/bin/Debug/net7.0/33-DictionaryVe_OzelListeler
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/bin/Debug/net7.0/33-DictionaryVe_OzelListeler.deps.json
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/bin/Debug/net7.0/33-DictionaryVe_OzelListeler.runtimeconfig.json
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/bin/Debug/net7.0/33-DictionaryVe_OzelListeler.dll
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/bin/Debug/net7.0/33-DictionaryVe_OzelListeler.pdb
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/obj/Debug/net7.0/33-DictionaryVe_OzelListeler.csproj.AssemblyReference.cache
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/obj/Debug/net7.0/33-DictionaryVe_OzelListeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/obj/Debug/net7.0/33-DictionaryVe_OzelListeler.AssemblyInfoInputs.cache
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/obj/Debug/net7.0/33-DictionaryVe_OzelListeler.AssemblyInfo.cs
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/obj/Debug/net7.0/33-DictionaryVe_OzelListeler.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/obj/Debug/net7.0/33-DictionaryVe_OzelListeler.dll
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/obj/Debug/net7.0/refint/33-DictionaryVe_OzelListeler.dll
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/obj/Debug/net7.0/33-DictionaryVe_OzelListeler.pdb
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/obj/Debug/net7.0/33-DictionaryVe_OzelListeler.genruntimeconfig.cache
+/Users/bahadircankardes/Projects/OOP/33-DictionaryVe_OzelListeler/obj/Debug/net7.0/ref/33-DictionaryVe_OzelListeler.dll
